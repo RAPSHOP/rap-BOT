@@ -8,8 +8,8 @@ Simple WhatsApp Bot
 > pkg install nodejs -y
 > pkg install ffmpeg -y
 > pkg install imagemagick -y
-> git clone https://github.com/Arya274/Arya-BOT3
-> cd Arya-BOT3
+> git clone https://github.com/RAPSHOP/rap-BOT
+> cd rap-BOT
 > npm install
 ```
 ###### Run
@@ -43,4 +43,4 @@ Script: @Nurutomo
 
 </p>
 
-[GITHUB](https://github.com/Arya274)
+[GITHUB](https://github.com/RAPSHOP)
